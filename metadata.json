@@ -1,0 +1,6 @@
+{
+  "name": "VAPOR // ZERO - FPV Cyber Shooter",
+  "description": "Fast-paced, modern 3D first-person shooter with fluid movement, procedural cyber arenas, dynamic enemy drone waves, multiple weapon loadouts, and spatial synth audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
